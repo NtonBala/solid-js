@@ -6,6 +6,6 @@ SOLID principles do not relate to any specific language and usually are consider
 
 Within this project SOLID principles are implemented via JavaScript and considered in the context of _OOP_.
 
-To run examples open `solid` folder in terminal of your choice and run `node ${principleFolderName}`.
+To run examples open project in terminal of your choice and run `node ${index}_${principleCapitalLetter}`.
 
-- [Single Responsibility Principle](./solid/1_S/index.md) (SRP)
+- [Single Responsibility Principle](./1_S/index.md) (SRP)
